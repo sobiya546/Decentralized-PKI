@@ -3,7 +3,7 @@
 > **A Secure Cross-Organization Identity Federation & Trust Fabric Web Platform**
 
 NexDPKI is an enterprise-grade cybersecurity frontend application demonstrating how distributed organizations register, exchange trusted identities, verify digital certificates, evaluate multi-party trust chains, and detect revoked or compromised cryptographic keys using a decentralized PKI framework.
-
+VIDEO LINK: https://drive.google.com/file/d/1gv38zzHxkqPc-jGtHdhPDAM_InzZQSQQ/view?usp=sharing
 ---
 
 ## 🌟 Key Capabilities & Features
